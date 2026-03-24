@@ -12,7 +12,7 @@ Course Title: Digital Literacy
 
 Student Name: Sagan Gangwar
 
-Slot : C21
+Slot : E21
 
 Faculty Name: Kannan sir
 
