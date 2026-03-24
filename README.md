@@ -1,4 +1,8 @@
-Digital Literacy Portfolio
+Digital Literacy Portfolio:Student Digital Ambassador Project
+
+Course Code: CSE0001 | Academic Year: 2025-26
+
+👤 Student Information
 
 Course Code: CSE0001 
 
@@ -6,10 +10,17 @@ Course Title: Digital Literacy
 
 Student Name: Sagan Gangwar
 
+Slot : C21
+
+Faculty Name: Kannan sir
+
 Registration Number:25BAI10057
 
 Branch:Computer Science and Enginnering(Artificial Intelligence and Machine Learning)
 
+Year: 1st Year (2nd Semester)
+
+Institution: VIT Bhopal University
 📌 Project Overview
 As a Student Digital Ambassador, this portfolio serves as a comprehensive resource to help peers navigate the digital world safely and professionally. It covers essential modules from digital tool awareness to cybercrime prevention.
 
